@@ -1,0 +1,19 @@
+{
+    "name": "Крипто Акула #2",
+    "description": "Здесь ты уже окончательно понял, что такое крипта, деньги и как это все работает. Осталось набраться терпения.",
+    "image": "https://raw.githubusercontent.com/welaskez/test_metadata_2/main/12.png",
+    "attributes": [
+        {
+            "trait_type": "team",
+            "value": "sharks"
+        },
+        {
+            "trait_type": "category",
+            "value": "silver"
+        },
+        {
+            "trait_type": "background",
+            "value": "dash"
+        }
+    ]
+}

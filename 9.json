@@ -1,0 +1,19 @@
+{
+    "name": "Крипто Краб #4",
+    "description": "Поздравляем с профитом, бро. Теперь ты настоящий крипптан. Ты ты плывешь в верном направлении. Ты уже почти акула. А акула - это почти кит.",
+    "image": "https://raw.githubusercontent.com/welaskez/test_metadata_2/main/9.png",
+    "attributes": [
+        {
+            "trait_type": "team",
+            "value": "crabs"
+        },
+        {
+            "trait_type": "category",
+            "value": "baze"
+        },
+        {
+            "trait_type": "background",
+            "value": "ton"
+        }
+    ]
+}

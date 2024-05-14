@@ -1,0 +1,19 @@
+{
+    "name": "Крипто Кит #2",
+    "description": "Мистер Кит. (подумай какое пожелаие ты хочешь оставить своим китам)",
+    "image": "https://raw.githubusercontent.com/welaskez/test_metadata_2/main/17.png",
+    "attributes": [
+        {
+            "trait_type": "team",
+            "value": "whales"
+        },
+        {
+            "trait_type": "category",
+            "value": "silver"
+        },
+        {
+            "trait_type": "background",
+            "value": "btc"
+        }
+    ]
+}

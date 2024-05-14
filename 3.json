@@ -1,0 +1,19 @@
+{
+    "name": "Крипто Креветка #3",
+    "description": "Добро пожаловать в мир криптовалют, юзер. Эта NFT приносит удачу. А при должном старании и при моей помощи ты сможешь стать крабом",
+    "image": "https://raw.githubusercontent.com/welaskez/test_metadata_2/main/3.png",
+    "attributes": [
+        {
+            "trait_type": "team",
+            "value": "shrimps"
+        },
+        {
+            "trait_type": "category",
+            "value": "gold"
+        },
+        {
+            "trait_type": "background",
+            "value": "dash"
+        }
+    ]
+}
